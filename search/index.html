@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title>Categories</title>
+  <title>Search Result</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -27,10 +27,12 @@
   <link rel="icon" href="https://le-bon-bateau.fr/images/favicon.png " type="image/x-icon">
   
   
-  <meta property="og:title" content="Categories" />
+  <meta property="og:title" content="Search Result" />
 <meta property="og:description" content="This is meta description" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://le-bon-bateau.fr/categories/" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://le-bon-bateau.fr/search/" /><meta property="article:section" content="" />
+
+
 
 
   
@@ -106,7 +108,7 @@ if (!doNotTrack) {
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h4>Categories</h4>
+        <h4>Search Result</h4>
       </div>
     </div>
   </div>
@@ -114,108 +116,32 @@ if (!doNotTrack) {
 
 
 
-<section>
+<section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mt-5">
-        
-        
-        <div class="row masonry-container">
-          
-          <div class="col-sm-6 mb-5">
-            <article class="text-center">
-              <img class="img-fluid mb-4" src="https://le-bon-bateau.fr" alt="post-thumb">
-              <p class="text-uppercase mb-2"></p>
-              <h4 class="title-border"><a class="text-dark" href="https://le-bon-bateau.fr/categories/exemple-cat%C3%A9gorie/">Exemple catégorie</a></h4>
-              <p></p>
-              <a href="https://le-bon-bateau.fr/categories/exemple-cat%C3%A9gorie/" class="btn btn-transparent">read more</a>
-            </article>
-          </div>
-          
-          <div class="col-sm-6 mb-5">
-            <article class="text-center">
-              <img class="img-fluid mb-4" src="https://le-bon-bateau.fr" alt="post-thumb">
-              <p class="text-uppercase mb-2"></p>
-              <h4 class="title-border"><a class="text-dark" href="https://le-bon-bateau.fr/categories/yatch-de-luxe/">Yatch de luxe</a></h4>
-              <p></p>
-              <a href="https://le-bon-bateau.fr/categories/yatch-de-luxe/" class="btn btn-transparent">read more</a>
-            </article>
-          </div>
-          
-        </div>
-
-        
-        
-        <div class="row">
-          <div class="col-12">
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-          </div>
-        </div>
-        
+      <div class="col-lg-10 mx-auto">
+        <div id="search-results"></div>
+        <script id="search-result-template" type="text/x-js-template">
+          <ul class="search-result list-unstyled" id="summary-${key}">
+            <li class="border-bottom mb-4 pb-3">
+              <h4><a class="text-dark" href="${link}">${title}</a></h4>
+              <p>${snippet}</p>
+              ${ isset tags }<p>Tags: ${tags}</p>${ end }
+              ${ isset categories }<p>Categories: ${categories}</p>${ end }
+            </li>
+          </ul>
+        </script>
       </div>
-      
-      <div class="col-lg-4">
-  <div class="widget search-box">
-    <form action="https://le-bon-bateau.fr/search">
-      <i class="ti-search"></i>
-      <input class="form-control border-0 pl-5" type="search" placeholder="Search" id="search-query" name="s">
-    </form>
-  </div>
-  <div class="widget">
-    <h6 class="mb-4">LATEST POST</h6>
-    
-    <div class="media mb-4">
-      <div class="post-thumb-sm mr-3">
-        <a href="https://le-bon-bateau.fr/exemple-categorie/exemple-article-dans-categorie/"><img class="mr-3 post-thumb-sm" src="https://le-bon-bateau.fr/images/posts/test-01.jpg"></a>
-      </div>
-      <div class="media-body">
-        <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By Mathieu</li>
-          <li class="list-inline-item">May 14, 2019</li>
-        </ul>
-        <h6><a class="text-dark" href="https://le-bon-bateau.fr/exemple-categorie/exemple-article-dans-categorie/">Exemple d&#39;un article dans une categorie</a></h6>
-      </div>
-    </div>
-    
-    <div class="media mb-4">
-      <div class="post-thumb-sm mr-3">
-        <a href="https://le-bon-bateau.fr/exemple-article-sans-categorie/"><img class="mr-3 post-thumb-sm" src="https://le-bon-bateau.fr/images/posts/test-02.jpg"></a>
-      </div>
-      <div class="media-body">
-        <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By Mathieu</li>
-          <li class="list-inline-item">May 14, 2019</li>
-        </ul>
-        <h6><a class="text-dark" href="https://le-bon-bateau.fr/exemple-article-sans-categorie/">Exemple d&#39;un article sans catégorie</a></h6>
-      </div>
-    </div>
-    
-  </div>
-  <div class="widget">
-    <h6 class="mb-4">TAG</h6>
-  </div>
-  <div class="widget">
-    <h6 class="mb-4">CATEGORIES</h6>
-    <ul class="list-inline tag-list">
-      <li class="list-inline-item m-1"><a href="/categories/exemple-cat%c3%a9gorie">Exemple catégorie</a></li>
-      <li class="list-inline-item m-1"><a href="/categories/yatch-de-luxe">Yatch de luxe</a></li>
-    </ul>
-  </div>
-</div>
     </div>
   </div>
 </section>
 
+
+
+<!-- Search index -->
+<script>
+  var indexURL = "https://le-bon-bateau.fr/index.json"
+</script>
 
 <footer class="bg-secondary">
   <div class="section">
