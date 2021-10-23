@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actualités on Le Bon Bateau</title>
+    <link>https://le-bon-bateau.fr/categories/actualit%C3%A9s/</link>
+    <description>Recent content in Actualités on Le Bon Bateau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://le-bon-bateau.fr/categories/actualit%C3%A9s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Azure Fighter - Un bateau électrique pour l&#39;environnement</title>
+      <link>https://le-bon-bateau.fr/actualite/azure-fighter/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://le-bon-bateau.fr/actualite/azure-fighter/</guid>
+      <description>C&amp;rsquo;est une actualité de septembre que nous souhaitions partager avec vous aujourd&amp;rsquo;hui.</description>
+    </item>
+    
+  </channel>
+</rss>

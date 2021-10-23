@@ -6,77 +6,32 @@
     <description>Recent content on Le Bon Bateau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://le-bon-bateau.fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://le-bon-bateau.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Azure Fighter - Un bateau électrique pour l&#39;environnement</title>
+      <link>https://le-bon-bateau.fr/actualite/azure-fighter/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://le-bon-bateau.fr/actualite/azure-fighter/</guid>
+      <description>C&amp;rsquo;est une actualité de septembre que nous souhaitions partager avec vous aujourd&amp;rsquo;hui.</description>
+    </item>
+    
+    <item>
+      <title>Sarvo 37 - La classe d&#39;un bateau au service de l&#39;électrique</title>
+      <link>https://le-bon-bateau.fr/bateau-electrique/sarvo37/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://le-bon-bateau.fr/bateau-electrique/sarvo37/</guid>
+      <description>Présenté en avant-première au célèbre Monaco Yacht Show en septembre 2021, le Sarvo 37 a secoué le public présent en nombre.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://le-bon-bateau.fr/a-propos/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://le-bon-bateau.fr/a-propos/</guid>
-      <description>Hello, I’m John Doe Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product.</description>
-    </item>
-    
-    <item>
-      <title>Exemple d&#39;un article dans une categorie</title>
-      <link>https://le-bon-bateau.fr/exemple-categorie/exemple-article-dans-categorie/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://le-bon-bateau.fr/exemple-categorie/exemple-article-dans-categorie/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Exemple d&#39;un article featured</title>
-      <link>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie-copy-2/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie-copy-2/</guid>
-      <description>Lorem ipsum yo dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Exemple d&#39;un article featured</title>
-      <link>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie-copy-3/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie-copy-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Exemple d&#39;un article featured</title>
-      <link>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie-copy-4/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie-copy-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Exemple d&#39;un article featured</title>
-      <link>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie-copy/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie-copy/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Exemple d&#39;un article featured</title>
-      <link>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://le-bon-bateau.fr/yacht-de-luxe/exemple-article-dans-categorie/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Exemple d&#39;un article sans catégorie</title>
-      <link>https://le-bon-bateau.fr/exemple-article-sans-categorie/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://le-bon-bateau.fr/exemple-article-sans-categorie/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>La démarche Le-Bon-Bateau, c&amp;rsquo;est la volonté d&amp;rsquo;offrir un espace d&amp;rsquo;échange et de partage autour de ce que nous considérons comme étant l&amp;rsquo;avenir du bateau et de la plaisance : l&amp;rsquo;électrique.</description>
     </item>
     
     <item>
@@ -85,7 +40,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://le-bon-bateau.fr/contact/</guid>
-      <description>Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.</description>
+      <description>Bienvenue sur Le-Bon-Bateau.
+Nous sommes un site de passionné(e)s de bateaux et de la mer qui s&amp;rsquo;adresse aux passionné(e)s mais aussi aux simples curieux(ses).</description>
     </item>
     
     <item>
