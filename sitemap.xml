@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://le-bon-bateau.fr/actualite/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://le-bon-bateau.fr/categories/actualit%C3%A9s/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://le-bon-bateau.fr/categories/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://le-bon-bateau.fr/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://le-bon-bateau.fr/actualite/bruce-22/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://le-bon-bateau.fr/categories/accessoire-%C3%A9lectrique/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://le-bon-bateau.fr/accessoire-electrique/</loc>
-    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://le-bon-bateau.fr/categories/</loc>
-    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://le-bon-bateau.fr/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://le-bon-bateau.fr/accessoire-electrique/finx-moteur/</loc>
@@ -34,12 +43,6 @@
   </url><url>
     <loc>https://le-bon-bateau.fr/bateau-electrique/magonis-wave-e-550/</loc>
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://le-bon-bateau.fr/actualite/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://le-bon-bateau.fr/categories/actualit%C3%A9s/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://le-bon-bateau.fr/actualite/azure-fighter/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
